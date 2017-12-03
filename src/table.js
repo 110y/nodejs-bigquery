@@ -38,6 +38,7 @@ var FORMATS = {
   avro: 'AVRO',
   csv: 'CSV',
   json: 'NEWLINE_DELIMITED_JSON',
+  datastore: 'DATASTORE_BACKUP',
 };
 
 /**
